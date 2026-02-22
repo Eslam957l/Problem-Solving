@@ -1,4 +1,4 @@
-#### Client Information Management
+## Client Information Management
 
 This program allows the user to enter client details including name, account number, phone, PIN code, and salary.
 It saves each client's information to a file in a structured format using a custom separator.
