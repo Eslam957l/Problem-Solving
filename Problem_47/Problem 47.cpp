@@ -115,4 +115,7 @@ int main()
 	Person1.SendEmail("Hi", "How Are You , Great Work And Great Project");
 	Person1.SendSMS("The Phone Numebr is unique And True");
 
+
+	system("pause>0");
+	return 0;
 }
